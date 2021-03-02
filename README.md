@@ -1,3 +1,3 @@
 # Slimium
 
-Source code will be released soon!
+https://github.com/cxreet/Slimium
